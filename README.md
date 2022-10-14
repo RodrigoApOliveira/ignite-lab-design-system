@@ -1,8 +1,7 @@
 
 # Projeto desenvolvido durante o Ignite Lab
 
-<img align="right" alt="Computer" width="350px" src="images/computer.png" />
- 
+
 
 
 
