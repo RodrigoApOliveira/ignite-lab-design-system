@@ -4,7 +4,7 @@ import { clsx } from 'clsx';
 
 export interface ButtonProps extends ButtonHTMLAttributes<HTMLButtonElement> {
   children: ReactNode;
-  asChild?: boolean; 
+  asChild?: boolean;
 }
 
 export function Button({ children, asChild, className, ...props }: ButtonProps) {
